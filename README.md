@@ -1,4 +1,4 @@
-# niharika2810
+# @niharika2810
 About Niharika Arora
 
 [Niharika Arora](www.linkedin.com/in/niharika-arora-4874967a) is working as a Senior Software Engineer at [1mg](https://www.1mg.com/). Previously she has worked with [myPAT](https://mypat.in/) Delhi and [Cube26](https://www.linkedin.com/company/cube26/). She is  an active technical blogger and has started her journey as a speaker from [Android Developers group,Delhi](https://www.meetup.com/GDGNewDelhi/). She has done her graduation from [JCBOSE YMCAUST,Faridabad](https://jcboseust.ac.in/). She enjoys interacting with other people from the community and sharing her thoughts with them. She is a fitness freak and never misses her gym.She loves to dance and party. She always try to share the problems and the solutions(through writing/speaking) with the community she faced during development.
