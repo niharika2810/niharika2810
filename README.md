@@ -18,7 +18,7 @@ About Niharika Arora
 
  - Developed [AarogyaSetu app](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN) in less than 15 days.(Optimizations and feature enhacements are still on)<br/>
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19. 
- - Got **Award of Chancellor Gold Medal for JCBOSE,YMCAUST 2011-2015 Batch** by Honourable Governor of Haryana.
+ - Got **Award of Chancellor Gold Medal for JCBOSE,YMCAUST 2011-2015 Batch** by Honourable State Governor.
  - Featured in **Medium Daily Digest** Today's Highlight for the article [Pitfalls in Android WebView Implementation](https://medium.com/1mgofficial/pitfalls-in-android-webview-implementation-b6524f9f38bb)
  - Featured in **Medium Daily Digest**  Do read articles for [Is your app not listed on Google play for some Tablet devices?](https://medium.com/1mgofficial/is-your-app-not-listed-in-google-play-for-some-of-the-tablet-devices-47a680b5d15a) 
  -  Created [ToastHandler](https://github.com/niharika2810/ToastHandler) library to fix WindowManager.BadToastException happening on Android 25
