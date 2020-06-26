@@ -43,6 +43,8 @@ About Niharika Arora
  - Joined [Noteworthy](https://noteworthy.medium.com/) as a Writer.
  - Volunteer : [Droidcon India, 2019](https://www.droidcon.co.in/) *2nd-3rd Nov, 2019* 
  - Member : [WomenDroid, Bangalore](https://twitter.com/womendroid?lang=en)
+ - Member : [WomenTechMakers](https://www.womentechmakers.com/)
+ - Member : [Android Developers Group](https://www.meetup.com/adg-delhi/)
 
 ### Technical Writing Experience 
 
