@@ -64,18 +64,18 @@ She likes to share her findings and experiments with the community and here's a 
  
  Her aticles like [Memory Management in Android](https://medium.com/@nik.arora8059/memory-management-in-android-3bdf307c8e23) , [Top Android Interview Questions](https://blog.usejournal.com/interview-questions-for-android-java-ds-f5081cb3aa09) etc. comes in top searches on Google.
  
- In addition to the above articles, there are many more lying in the "Drafts" which are not decent enough to share :P
+ In addition to the above articles, there are many more lying in the "Drafts" which will be posted soon.Stay Tuned!! :P
 
 ### Open Source Projects
 
 She has the following open-source demo projects :
 
  - [ToastHandler](https://github.com/niharika2810/ToastHandler) (An Android library for handling Toast BadTokenException happening on Android API level 25 and showing Toast smoothly on All Android versions.)
-  - [Custom Zxing Scanner for scanning Jjwt token](https://github.com/niharika2810/ZxingPlusJjwtSample) Custom Scanner
- - [Unit Testing in MVVM-Koin-Coroutines](https://github.com/niharika2810/UnitTesting-MVVM-Kotlin-Koin-Coroutines-Sample) (RxJava) (Testing)
- - [MVP-Dagger-Retrofit Sample](https://github.com/niharika2810/MVP-Dagger-Retrofit-Sample-App) 
- - [Layout Performance Analysis](https://github.com/niharika2810/LayoutPerformance-Analysis-App) (Performance Analysis)
- - [SectionedRecyclerView](https://github.com/niharika2810/SectionedRecyclerView-Sample) 
+  - [Custom Zxing Scanner for scanning Jjwt token](https://github.com/niharika2810/ZxingPlusJjwtSample)(An Android Application for generating QR code using Json Web Token (JWT) and Custom Scanner with scanning rectangle(square with Borders around) for more focus to scan the QR code accurately)
+ - [Unit Testing in MVVM-Koin-Coroutines](https://github.com/niharika2810/UnitTesting-MVVM-Kotlin-Koin-Coroutines-Sample) (RxJava) (A Sample Android Application for writing Unit tests in MVVM architecture using Koin as dependency injection framework and Coroutines for network call(Long blocking tasks))
+ - [MVP-Dagger-Retrofit Sample](https://github.com/niharika2810/MVP-Dagger-Retrofit-Sample-App) (A Sample Application demonstrating implementation of MVP architecture using Dagger as dependency injection framework and Retrofit for network call)
+ - [Layout Performance Analysis](https://github.com/niharika2810/LayoutPerformance-Analysis-App)(A Demo Application with different XMLs developed using different viewgroups for same UI screens to measure layout performance.Please go through my [Medium article](https://medium.com/1mgofficial/constraintlayout-vs-other-layouts-a-battle-towards-performance-part-1-14d8116e876e) for the results)
+ - [SectionedRecyclerView](https://github.com/niharika2810/SectionedRecyclerView-Sample) (A Sample project explaining how to create sections in Recyclerview with Pixel perfect UI, given a sample input)
 
 
 ### Some Client Projects on Play Store
