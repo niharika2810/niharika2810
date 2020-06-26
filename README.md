@@ -9,9 +9,8 @@ About Niharika Arora
   - Have written an article on [Understanding the core of Aarogya Setu App: Bluetooth](https://medium.com/aarogyasetu/understanding-the-core-of-aarogya-setu-bluetooth-c09de3143fd2) explaining the bluetooth implementation for AarogyaSetu App
  - Have written an article on [Pitfalls in WebView Implementation](https://medium.com/1mgofficial/pitfalls-in-android-webview-implementation-b6524f9f38bb)
  - Speaker at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/268419995/): *Unit Testing in Android * on *Feb 22, 2020* 
- - Joined [Mindorks](https://mindorks.com/) as a Writer.
-  - Joined [AarogyaSetu](https://medium.com/aarogyasetu) as an Editor.
-  - Contributed to [Open-Trace app](https://github.com/opentrace-community/opentrace-android), Contact tracing app for Singapure
+ - Joined [Mindorks](https://mindorks.com/) as a Writer and [AarogyaSetu](https://medium.com/aarogyasetu) as an Editor.
+ - Contributed to [Open-Trace app](https://github.com/opentrace-community/opentrace-android), Contact tracing app for Singapure.
  
 
 ### Coolest \m/
@@ -19,12 +18,13 @@ About Niharika Arora
  - Developed [AarogyaSetu app](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN) in less than 15 days.(Optimizations and feature enhacements are still on)<br/>
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19. 
  - Got **Award of Chancellor Gold Medal for JCBOSE,YMCAUST 2011-2015 Batch** by Honourable State Governor.
+ - Article on [Understanding the core of Aarogya Setu App: Bluetooth](https://medium.com/aarogyasetu/understanding-the-core-of-aarogya-setu-bluetooth-c09de3143fd2) got [Trending](https://ibb.co/h1G7Ngz) on LinkedIn.
  - Featured in **Medium Daily Digest** Today's Highlight for the article [Pitfalls in Android WebView Implementation](https://medium.com/1mgofficial/pitfalls-in-android-webview-implementation-b6524f9f38bb)
  - Featured in **Medium Daily Digest**  Do read articles for [Is your app not listed on Google play for some Tablet devices?](https://medium.com/1mgofficial/is-your-app-not-listed-in-google-play-for-some-of-the-tablet-devices-47a680b5d15a) 
  -  Created [ToastHandler](https://github.com/niharika2810/ToastHandler) library to fix WindowManager.BadToastException happening on Android 25
-- Her Articles like [Memory Management in Android](https://medium.com/@nik.arora8059/memory-management-in-android-3bdf307c8e23) , [Top Android Interview Questions](https://blog.usejournal.com/interview-questions-for-android-java-ds-f5081cb3aa09) etc. comes in top searches on Google.
- - Research on different viewgroups for better layout performance using **Systrace** and other tools, created one [sample application](https://github.com/niharika2810/LayoutPerformance-Analysis-App) for demonstrating the results
- - Contributed to [Zxing Library](https://github.com/journeyapps/zxing-android-embedded/pulls) for creating Custom Scanner View.
+- Her Articles like [Memory Management in Android](https://medium.com/@nik.arora8059/memory-management-in-android-3bdf307c8e23) , [Top Android Interview Questions](https://blog.usejournal.com/interview-questions-for-android-java-ds-f5081cb3aa09) , [Unit Testing in MVVM+Kotlin+DataBinding](https://medium.com/1mgofficial/unit-testing-in-mvvm-kotlin-databinding-ba3d4ea08f0e) and many others come in **Top** searches on Google.
+ - Research on different ViewGroups for better layout performance using **Systrace** and other tools, created one [sample application](https://github.com/niharika2810/LayoutPerformance-Analysis-App) for demonstrating the results
+ - Contributed to [Zxing Library](https://github.com/journeyapps/zxing-android-embedded/pulls) for creating Custom Scanner having preview rectangle with borders.
   - Editor of [1mg Tech Blog](https://medium.com/1mgofficial) and made around 25 people from different tech stack to contribute to the community through different talks and session.(Although those were just informal)
 
 
@@ -36,19 +36,18 @@ About Niharika Arora
  - [Facebook : nik.arora59](https://www.facebook.com/nik.arora59)
  - [Instagram : nik.arora59](https://www.instagram.com/nik.arora59/)
  
+ 
 ### Community Experience
  - Speaker at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/268419995/): *Unit Testing in Android * on *Feb 22, 2020* 
- - Joined [Mindorks](https://mindorks.com/) as a Writer.
- - Joined [AarogyaSetu](https://medium.com/aarogyasetu) as an Editor.
- - Joined [Noteworthy](https://noteworthy.medium.com/) as a Writer.
+ - Writer at [Mindorks](https://mindorks.com/) and [Noteworthy](https://noteworthy.medium.com/)
+ - Editor at [AarogyaSetu](https://medium.com/aarogyasetu) and [1mg](https://medium.com/1mgofficial)
  - Volunteer : [Droidcon India, 2019](https://www.droidcon.co.in/) *2nd-3rd Nov, 2019* 
- - Member : [WomenDroid, Bangalore](https://twitter.com/womendroid?lang=en)
- - Member : [WomenTechMakers](https://www.womentechmakers.com/)
- - Member : [Android Developers Group](https://www.meetup.com/adg-delhi/)
+ - Member : [WomenDroid, Bangalore](https://twitter.com/womendroid?lang=en), [WomenTechMakers](https://www.womentechmakers.com/), [Android Developers Group](https://www.meetup.com/adg-delhi/), [blrDroid](https://www.meetup.com/blrdroid/)
+ 
 
 ### Technical Writing Experience 
 
-She likes to share her findings and experiments with the community and here's a list of the articles written by her.
+She likes to share her findings and experiments with the community and here's a list of the articles written by her:
  - June, 2020 : [How I resolved WindowManager.BadTokenException for Toast#handleShow()?](https://medium.com/@nik.arora8059/how-i-resolved-windowmanager-badtokenexception-for-toast-handleshow-2308203ebb91) - Ready to publish
  - June, 2020 : [Understanding the core of Aarogya Setu App: Bluetooth](https://medium.com/aarogyasetu/understanding-the-core-of-aarogya-setu-bluetooth-c09de3143fd2)
  - June, 2020 : [Pitfalls in Android WebView Implementation](https://medium.com/1mgofficial/pitfalls-in-android-webview-implementation-b6524f9f38bb)
@@ -68,6 +67,7 @@ She likes to share her findings and experiments with the community and here's a 
  Her aticles like [Memory Management in Android](https://medium.com/@nik.arora8059/memory-management-in-android-3bdf307c8e23) , [Top Android Interview Questions](https://blog.usejournal.com/interview-questions-for-android-java-ds-f5081cb3aa09) etc. comes in top searches on Google.
  
  In addition to the above articles, there are many more lying in the "Drafts" which will be posted soon.Stay Tuned!! :P
+ 
 
 ### Open Source Projects
 
