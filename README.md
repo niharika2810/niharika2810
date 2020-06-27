@@ -9,7 +9,7 @@ About Niharika Arora
   - Have written an article on [Understanding the core of Aarogya Setu App: Bluetooth](https://medium.com/aarogyasetu/understanding-the-core-of-aarogya-setu-bluetooth-c09de3143fd2) explaining the bluetooth implementation for AarogyaSetu App
  - Have written an article on [Pitfalls in WebView Implementation](https://medium.com/1mgofficial/pitfalls-in-android-webview-implementation-b6524f9f38bb)
  - Speaker at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/268419995/): *Unit Testing in Android * on *Feb 22, 2020* 
- - Joined [Mindorks](https://mindorks.com/) as a Writer and [AarogyaSetu](https://medium.com/aarogyasetu) as an Editor.
+ - Joined [Mindorks](https://mindorks.com/) as a Writer, [ProAndroidDev](https://proandroiddev.com/) as a Writer and [AarogyaSetu](https://medium.com/aarogyasetu) as an Editor.
  - Contributed to [Open-Trace app](https://github.com/opentrace-community/opentrace-android), Contact tracing app for Singapure.
  
 
@@ -39,7 +39,7 @@ About Niharika Arora
  
 ### Community Experience
  - Speaker at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/268419995/): *Unit Testing in Android * on *Feb 22, 2020* 
- - Writer at [Mindorks](https://mindorks.com/) and [Noteworthy](https://noteworthy.medium.com/)
+ - Writer at [Mindorks](https://mindorks.com/), [ProAndroidDev](https://proandroiddev.com/) and [Noteworthy](https://noteworthy.medium.com/)
  - Editor at [AarogyaSetu](https://medium.com/aarogyasetu) and [1mg](https://medium.com/1mgofficial)
  - Volunteer : [Droidcon India, 2019](https://www.droidcon.co.in/) *2nd-3rd Nov, 2019* 
  - Member : [WomenDroid, Bangalore](https://twitter.com/womendroid?lang=en), [WomenTechMakers](https://www.womentechmakers.com/), [Android Developers Group](https://www.meetup.com/adg-delhi/), [blrDroid](https://www.meetup.com/blrdroid/)
@@ -48,7 +48,7 @@ About Niharika Arora
 ### Technical Writing Experience 
 
 She likes to share her findings and experiments with the community and here's a list of the articles written by her:
- - June, 2020 : [How I resolved WindowManager.BadTokenException for Toast#handleShow()?](https://medium.com/@nik.arora8059/how-i-resolved-windowmanager-badtokenexception-for-toast-handleshow-2308203ebb91) - Ready to publish
+ - June, 2020 : [How I resolved WindowManager.BadTokenException for Toast#handleShow()?](https://proandroiddev.com/how-i-resolved-windowmanager-badtokenexception-for-toast-handleshow-2308203ebb91)
  - June, 2020 : [Understanding the core of Aarogya Setu App: Bluetooth](https://medium.com/aarogyasetu/understanding-the-core-of-aarogya-setu-bluetooth-c09de3143fd2)
  - June, 2020 : [Pitfalls in Android WebView Implementation](https://medium.com/1mgofficial/pitfalls-in-android-webview-implementation-b6524f9f38bb)
  - Feb, 2020 : [Is your app not listed in Google Play for some of the tablet devices?](https://medium.com/1mgofficial/is-your-app-not-listed-in-google-play-for-some-of-the-tablet-devices-47a680b5d15a) 
