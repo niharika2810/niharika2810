@@ -89,7 +89,7 @@ She has the following open-source demo projects :
  - [Impact India for Doctors](https://play.google.com/store/apps/details?id=com.onemg.consultation)
  - [myPAT](https://play.google.com/store/apps/details?id=com.mypat)
  - [Teachers App](https://play.google.com/store/apps/details?id=com.mypatteacherapp)
- - [GreenApple Solutions](https://play.google.com/store/apps/details?id=com.gaps.glen.sales_tracker&hl=en)
+ - [Glen MST](https://play.google.com/store/apps/details?id=com.gaps.glen.sales_tracker&hl=en)
  
  Thank you for reading this. Happy Coding!!
 
