@@ -1,7 +1,10 @@
 # @niharika2810
 About Niharika Arora
 
-[Niharika Arora](www.linkedin.com/in/niharika-arora-4874967a) is working as a Senior Software Engineer at [1mg](https://www.1mg.com/). Previously she has worked with [myPAT](https://mypat.in/) Delhi and [Cube26](https://www.linkedin.com/company/cube26/). She is  an active technical blogger and has started her journey as a speaker from [Android Developers group,Delhi](https://www.meetup.com/GDGNewDelhi/). She has done her graduation from [JCBOSE YMCAUST,Faridabad](https://jcboseust.ac.in/). She enjoys interacting with other people from the community and sharing her thoughts with them. She is a fitness freak and never misses her gym.She loves to dance and party. She always try to share the problems and the solutions(through writing/speaking) with the community she faced during development.
+[Niharika Arora](www.linkedin.com/in/niharika-arora-4874967a) is currently working as a Senior Software Engineer at [1mg](https://www.1mg.com/).<br/>
+She started her career as an Android Devloper with company like [myPAT](https://mypat.in/) Delhi and [Cube26](https://www.linkedin.com/company/cube26/).<br/>
+She is  an active technical blogger and started her journey as a speaker from [Android Developers group,Delhi](https://www.meetup.com/GDGNewDelhi/).She had completed her graduation from [JCBOSE YMCAUST,Faridabad](https://jcboseust.ac.in/).<br/>
+She is  an interactive person ,a good listener and can convey her thoughts clearly.  A big time  fitness freak and an avid  partygoer who love to dance adds a wow  factor in her persona  ,she can handle the questions well and is a Solution seeker which creats  a healthy environment in her  workplace .
 
 ### Latest
  - Developed [AarogyaSetu app](https://github.com/nic-delhi/AarogyaSetu_Android/graphs/contributors) and served the country in this tough times.
