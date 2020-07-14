@@ -5,7 +5,7 @@ About Niharika Arora
 She started her career as an Android Devloper with company like [myPAT](https://mypat.in/) Delhi and [Cube26](https://www.linkedin.com/company/cube26/).<br/>
 She is  an active technical blogger and started her journey as a speaker from [Android Developers group,Delhi](https://www.meetup.com/GDGNewDelhi/).She had completed her graduation from [JCBOSE YMCAUST,Faridabad](https://jcboseust.ac.in/).<br/>
 She is  an interactive person ,a good listener and can convey her thoughts clearly.  A big time  fitness freak and an avid  partygoer who love to dance adds a wow  factor in her persona  ,she can handle the questions well and is a Solution seeker which creats  a healthy environment in her  workplace .<br/>
-Recently, she was invited by [Truepush](https://www.truepush.com/) for a PODCAST telling  "[The story behind the inception of India's Contact Tracing app](https://www.truepush.com/blog/podcast-ep-9-the-story-behind-the-inception-of-indias-aarogya-setu-app/?fbclid=IwAR3AQK1TDyyUEZHHghHFHwR6hp7M0tFUdagfPi0dBtZMpWFeV3178c5zP6I)".
+Recently, she was invited by [Truepush](https://www.truepush.com/) for a **PODCAST** telling  "[The story behind the inception of India's Contact Tracing app](https://www.truepush.com/blog/podcast-ep-9-the-story-behind-the-inception-of-indias-aarogya-setu-app/?fbclid=IwAR3AQK1TDyyUEZHHghHFHwR6hp7M0tFUdagfPi0dBtZMpWFeV3178c5zP6I)".
 
 ### Latest
  - Developed [AarogyaSetu app](https://github.com/nic-delhi/AarogyaSetu_Android/graphs/contributors) and served the country in this tough times.
