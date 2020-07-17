@@ -10,10 +10,10 @@ Recently, she was invited by [Truepush](https://www.truepush.com/) for a **PODCA
 ### Latest
  - Developed [AarogyaSetu app](https://github.com/nic-delhi/AarogyaSetu_Android/graphs/contributors) and served the country in this tough times.
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19.
-  - Successfully done a Webinar on [Understanding the core of AarogyaSetu App: Bluetooh](https://www.youtube.com/watch?v=K4SLf3y6zmE&feature=youtu.be)[(PPT link)](https://www.youtube.com/watch?v=K4SLf3y6zmE) on July 11th,2020 at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/271755904/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJDNlZmNhMjRmLWNhZDgtNGRhNi1iZTRkLTliYTc2YjhkODJjMg), which got around 200 views on Youtube in just 2 days.
+  - Webinar on [Understanding the core of AarogyaSetu App: Bluetooh](https://www.youtube.com/watch?v=K4SLf3y6zmE&feature=youtu.be)[(PPT link)](https://www.youtube.com/watch?v=K4SLf3y6zmE) on July 11th,2020 at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/271755904/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJDNlZmNhMjRmLWNhZDgtNGRhNi1iZTRkLTliYTc2YjhkODJjMg), which got around 200 views on Youtube in just 2 days.
   - Have written an article on [How I resolved BadTokenException for Toast#handleShow()?](https://proandroiddev.com/how-i-resolved-windowmanager-badtokenexception-for-toast-handleshow-2308203ebb91).
-  - Have written an article on [Understanding the core of Aarogya Setu App: Bluetooth](https://medium.com/aarogyasetu/understanding-the-core-of-aarogya-setu-bluetooth-c09de3143fd2) explaining the bluetooth implementation for AarogyaSetu App
- - Have written an article on [Pitfalls in WebView Implementation](https://medium.com/1mgofficial/pitfalls-in-android-webview-implementation-b6524f9f38bb)
+  - Article on [Understanding the core of Aarogya Setu App: Bluetooth](https://medium.com/aarogyasetu/understanding-the-core-of-aarogya-setu-bluetooth-c09de3143fd2) explaining the bluetooth implementation for AarogyaSetu App
+ - Article on [Pitfalls in WebView Implementation](https://medium.com/1mgofficial/pitfalls-in-android-webview-implementation-b6524f9f38bb)
  - Speaker at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/268419995/): *Unit Testing in Android * on *Feb 22, 2020* 
  - Joined [Mindorks](https://mindorks.com/) as a Writer, [ProAndroidDev](https://proandroiddev.com/) as a Writer and [AarogyaSetu](https://medium.com/aarogyasetu) as an Editor.
  - Contributed to [Open-Trace app](https://github.com/opentrace-community/opentrace-android), Contact tracing app for Singapure.
@@ -35,7 +35,6 @@ Recently, she was invited by [Truepush](https://www.truepush.com/) for a **PODCA
 - Her Articles like [Memory Management in Android](https://medium.com/@nik.arora8059/memory-management-in-android-3bdf307c8e23) , [Top Android Interview Questions](https://blog.usejournal.com/interview-questions-for-android-java-ds-f5081cb3aa09) , [Unit Testing in MVVM+Kotlin+DataBinding](https://medium.com/1mgofficial/unit-testing-in-mvvm-kotlin-databinding-ba3d4ea08f0e) and many others come in **Top** searches on Google.
  - Research on different ViewGroups for better layout performance using **Systrace** and other tools, created one [sample application](https://github.com/niharika2810/LayoutPerformance-Analysis-App) for demonstrating the results
  - Contributed to [Zxing Library](https://github.com/journeyapps/zxing-android-embedded/pulls) for creating Custom Scanner having preview rectangle with borders.
-  - Editor of [1mg Tech Blog](https://medium.com/1mgofficial) and made around 25 people from different tech stack to contribute to the community through different talks and session.(Although those were just informal)
 
 
 ### Social Links
