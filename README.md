@@ -100,6 +100,8 @@ She has the following open-source demo projects :
  - [Teachers App](https://play.google.com/store/apps/details?id=com.mypatteacherapp)
  - [Glen MST](https://play.google.com/store/apps/details?id=com.gaps.glen.sales_tracker&hl=en)
  
+ <img src="https://github-readme-stats.vercel.app/api?username=niharika2810&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366"/>
+ 
  Thank you for reading this. Happy Coding!!
 
 
