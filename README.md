@@ -26,7 +26,7 @@ Recently, she was invited by [Truepush](https://www.truepush.com/) for a **PODCA
  - Developed [AarogyaSetu app](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN) in less than 15 days.(Optimizations and feature enhacements are still on)<br/>
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19. 
  - Got **Award of Chancellor Gold Medal for JCBOSE,YMCAUST 2011-2015 Batch** by Honourable State Governor.
- - Library published on fixing [Toast BadTokenException](https://ibb.co/ygNVVGG) on June 17,2020 has around 47 downloads so far.
+ - Library published on fixing [Toast BadTokenException](https://ibb.co/ygNVVGG) on June 17,2020 has approx 50 downloads so far within a month.
  - Article on [How I resolved BadTokenException for Toast#handleShow()?](https://proandroiddev.com/how-i-resolved-windowmanager-badtokenexception-for-toast-handleshow-2308203ebb91) got [TRENDING]() on LinkedIn.
  - Article on [Understanding the core of Aarogya Setu App: Bluetooth](https://medium.com/aarogyasetu/understanding-the-core-of-aarogya-setu-bluetooth-c09de3143fd2) got [TRENDING](https://ibb.co/0y2m7nn) on LinkedIn.
   - Featured in [Droidcon](https://ibb.co/2WnGbhx) Today's Highlight for the article [How I resolved WindowManager.BadTokenException for Toast#handleShow()?
