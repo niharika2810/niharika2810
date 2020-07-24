@@ -7,7 +7,7 @@ She is  an active technical blogger and started her journey as a speaker from [A
 She is  an interactive person ,a good listener and can convey her thoughts clearly.  A big time  fitness freak and an avid  partygoer who love to dance adds a wow  factor in her persona  ,she can handle the questions well and is a Solution seeker which creats  a healthy environment in her  workplace .<br/>
 Recently, she was invited by [Truepush](https://www.truepush.com/) for a **PODCAST** telling  "[The story behind the inception of India's Contact Tracing app](https://www.truepush.com/blog/podcast-ep-9-the-story-behind-the-inception-of-indias-aarogya-setu-app/?fbclid=IwAR3AQK1TDyyUEZHHghHFHwR6hp7M0tFUdagfPi0dBtZMpWFeV3178c5zP6I)".
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/niharika2810">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niharika2810&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Niharika's github stats"/>
 </a>
 <a href="https://github.com/niharika2810">
@@ -101,7 +101,7 @@ She has the following open-source demo projects :
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niharika2810&repo=ToastHandler&theme=dark&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
 </a>
 <a href="https://github.com/niharika2810/UnitTesting-MVVM-Kotlin-Koin-Coroutines-Sample">
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=niharika2810&repo=UnitTestingSample&theme=dark&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=niharika2810&repo=UnitTesting-MVVM-Kotlin-Koin-Coroutines-Sample&theme=dark&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
 </a>
 
 ### Some Client Projects on Play Store
