@@ -64,8 +64,7 @@ Recently, she was invited by [Truepush](https://www.truepush.com/) for a **PODCA
   <img align="left" alt="Niharika's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
- 
- 
+<br/><br/>
 ### Community Experience
  - Webinar on [Understanding the core of AarogyaSetu App: Bluetooh](https://www.youtube.com/watch?v=K4SLf3y6zmE&feature=youtu.be) on July 11th,2020 at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/271755904/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJDNlZmNhMjRmLWNhZDgtNGRhNi1iZTRkLTliYTc2YjhkODJjMg)
  - Speaker at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/268419995/): *Unit Testing in Android * on *Feb 22, 2020*, [(PPT Link)](https://speakerdeck.com/niharika28/unit-testing-in-android) & [(Youtube Link)](https://www.youtube.com/watch?v=0K4S3vkulGc&t=1s)
