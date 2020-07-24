@@ -45,12 +45,25 @@ Recently, she was invited by [Truepush](https://www.truepush.com/) for a **PODCA
 
 
 ### Social Links
- - [LinkedIn : niharika-arora-4874967a](https://www.linkedin.com/in/niharika-arora-4874967a/)
- - [Twitter : @Niharik36712833](https://twitter.com/Niharik36712833)
- - [Github : niharika2810](https://github.com/niharika2810)
- - [Medium : @nik.arora8059](https://medium.com/@nik.arora8059)
- - [Facebook : nik.arora59](https://www.facebook.com/nik.arora59)
- - [Instagram : nik.arora59](https://www.instagram.com/nik.arora59/)
+ <a href="https://twitter.com/Niharik36712833">
+  <img align="left" alt="Niharika's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/niharika-arora-4874967a/">
+  <img align="left" alt="Niharika's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@nik.arora8059">
+  <img align="left" alt="Niharika's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://github.com/niharika2810">
+  <img align="left" alt="Niharika's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/nik.arora59/">
+  <img align="left" alt="Niharika's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/nik.arora59">
+  <img align="left" alt="Niharika's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
  
  
 ### Community Experience
