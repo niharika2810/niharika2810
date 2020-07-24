@@ -115,7 +115,7 @@ She has the following open-source demo projects :
 <a href="https://github.com/niharika2810/LayoutPerformance-Analysis-App">
  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=niharika2810&repo=LayoutPerformance-Analysis-App&theme=dark&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
 </a>
-<br/>
+<br/> <br/>
 
 Checkout the other repositories too :-)
 
