@@ -97,7 +97,7 @@ She likes to share her findings and experiments with the community and here's a 
  - Nov, 2017 : [Android Studio Plugins that will save you hundreds of hours :-)](https://medium.com/@nik.arora8059/android-studio-plugins-that-will-save-you-hundreds-of-hours-514e516c36fa)
  - Oct, 2017 : [Memory Management in Android](https://medium.com/@nik.arora8059/memory-management-in-android-3bdf307c8e23)
  
- Her aticles like [Memory Management in Android](https://medium.com/@nik.arora8059/memory-management-in-android-3bdf307c8e23) , [Top Android Interview Questions](https://blog.usejournal.com/interview-questions-for-android-java-ds-f5081cb3aa09) etc. comes in top searches on Google.
+ Her articles like [Memory Management in Android](https://medium.com/@nik.arora8059/memory-management-in-android-3bdf307c8e23) , [Top Android Interview Questions](https://blog.usejournal.com/interview-questions-for-android-java-ds-f5081cb3aa09) etc. comes in top searches on Google.
  
  In addition to the above articles, there are many more lying in the "Drafts" which will be posted soon.Stay Tuned!! :P
  
