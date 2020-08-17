@@ -37,6 +37,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Her library for fixing [Toast BadTokenException](https://ibb.co/ygNVVGG) published on June 17th,2020 has approx. 50 downloads so far within a month
  - Article on [How I resolved BadTokenException for Toast#handleShow()?](https://proandroiddev.com/how-i-resolved-windowmanager-badtokenexception-for-toast-handleshow-2308203ebb91) got [TRENDING]() on LinkedIn and on [ProAndroidDev](https://ibb.co/55cJ30T) for a month since the day it got published.
  - Article on [Understanding the core of Aarogya Setu App: Bluetooth](https://medium.com/aarogyasetu/understanding-the-core-of-aarogya-setu-bluetooth-c09de3143fd2) got [TRENDING](https://ibb.co/0y2m7nn) on LinkedIn.
+   - Featured in [Droidcon](https://ibb.co/Zx1zgjF) Today's Highlight for the article [https://proandroiddev.com/constraintlayout-vs-other-layouts-a-battle-towards-performance-part-1-14d8116e876e](https://proandroiddev.com/constraintlayout-vs-other-layouts-a-battle-towards-performance-part-1-14d8116e876e)
   - Featured in [Droidcon](https://ibb.co/2WnGbhx) Today's Highlight for the article [How I resolved WindowManager.BadTokenException for Toast#handleShow()?
 ](https://proandroiddev.com/how-i-resolved-windowmanager-badtokenexception-for-toast-handleshow-2308203ebb91)
  - Featured in [Medium Daily Digest](https://ibb.co/Z1YDJY2) Today's Highlight for the article [Pitfalls in Android WebView Implementation](https://medium.com/1mgofficial/pitfalls-in-android-webview-implementation-b6524f9f38bb)
