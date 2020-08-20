@@ -50,7 +50,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
 
 
 ### Social Links
- <a href="https://twitter.com/Niharik36712833">
+ <a href="https://twitter.com/theDroidLady">
   <img align="left" alt="Niharika's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/niharika-arora-4874967a/">
