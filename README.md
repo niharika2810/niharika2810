@@ -1,7 +1,7 @@
 # @niharika2810
 About Niharika Arora
 
-[Niharika Arora](https://www.linkedin.com/in/niharika-arora-4874967a/) is currently working as a Senior Software Engineer at [1mg](https://www.1mg.com/).<br/>
+[Niharika Arora](https://www.linkedin.com/in/thedroidlady/) is currently working as a Senior Software Engineer at [1mg](https://www.1mg.com/).<br/>
 She started her career as an Android Developer with company like [myPAT](https://mypat.in/) Delhi and [Cube26](https://www.linkedin.com/company/cube26/).<br/>
 She is  an active technical blogger and started her journey as a speaker from [Android Developers group,Delhi](https://www.meetup.com/GDGNewDelhi/).She had completed her graduation from [JCBOSE YMCAUST,Faridabad](https://jcboseust.ac.in/).<br/>
 She is  an interactive person ,a good listener and can convey her thoughts clearly.  A big time  fitness freak and an avid  partygoer who love to dance adds a wow  factor in her persona  ,she can handle the questions well and is a Solution seeker which creates  a healthy environment in her  workplace .<br/>
@@ -9,7 +9,7 @@ Recently, she was invited by [Truepush](https://www.truepush.com/) for a **PODCA
 
 She is also a **MENTOR** at [MentorCruise](https://mentorcruise.com/mentor/NiharikaArora/) helping people with their queries regarding their career, latest trends, architecture and best practices.
 
-She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/indiamentor.com/) for her contributions towards the [community](https://www.linkedin.com/posts/niharika-arora-4874967a_hardwork-rewards-sharingknowledge-activity-6696836835148132352-cAwq).
+She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/indiamentor.com/) for her contributions towards the [community](https://www.linkedin.com/posts/thedroidlady_hardwork-rewards-sharingknowledge-activity-6696836835148132352-9d2B).
 <br/><br/>
 <a href="https://github.com/niharika2810?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niharika2810&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Niharika's github stats"/>
@@ -56,7 +56,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  <a href="https://twitter.com/theDroidLady">
   <img align="left" alt="Niharika's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/niharika-arora-4874967a/">
+<a href="https://www.linkedin.com/in/thedroidlady/">
   <img align="left" alt="Niharika's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@nik.arora8059">
