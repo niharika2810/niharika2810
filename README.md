@@ -1,5 +1,4 @@
-# @niharika2810
-About Niharika Arora
+# About [Niharika Arora](https://thedroidlady.com/)
 
 Note: I am available [here](https://thedroidlady.com/) for more updates.
 
