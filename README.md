@@ -1,7 +1,7 @@
 # @niharika2810
 About Niharika Arora
 
-Reach me out [here](https://thedroidlady.com/) for more.
+Note: I am available [here](https://thedroidlady.com/) for more updates.
 
 [Niharika Arora](https://www.linkedin.com/in/thedroidlady/) is currently working as a Senior Software Engineer at [1mg](https://www.1mg.com/).<br/>
 She started her career as an Android Developer with company like [myPAT](https://mypat.in/) Delhi and [Cube26](https://www.linkedin.com/company/cube26/).<br/>
