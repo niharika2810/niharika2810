@@ -38,6 +38,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Developed [AarogyaSetu app](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN) in less than 15 days.(Optimizations and feature enhacements are still on)<br/>
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19. 
  - Got **Award of Chancellor Gold Medal for JCBOSE,YMCAUST 2011-2015 Batch** by Honourable State Governor.
+ - Article on [Android Scoped Storage Demistyfied](https://thedroidlady.com/2020/08/24/android-scoped-storage-demystified.html) featured in [Dor Moshe's Android Newsletter](https://dormoshe.io/newsletters/ag/android/18?utm_source=twitter&utm_campaign=twitter7)
  - Article on [Android’s Attribute android:allowBackup Demystified](https://medium.com/better-programming/androids-attribute-android-allowbackup-demystified-114b88087e3b) got featured in [OnCreate Digest Android newsletter](http://www.oncreatedigest.com/issues/oncreate-digest-issue-18-270712)
  - Her library for fixing [Toast BadTokenException](https://ibb.co/ygNVVGG) published on June 17th,2020 has approx. 82 downloads so far within 2 months
  - Article on [How I resolved BadTokenException for Toast#handleShow()?](https://proandroiddev.com/how-i-resolved-windowmanager-badtokenexception-for-toast-handleshow-2308203ebb91) got TRENDING on LinkedIn and on [ProAndroidDev](https://ibb.co/55cJ30T) for a month since the day it got published.
@@ -86,6 +87,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
 ### Technical Writing Experience 
 
 She likes to share her findings and experiments with the community and here's a list of the articles written by her:
+ - August, 2020 - [Android Scoped Storage Demystified](https://thedroidlady.com/2020/08/24/android-scoped-storage-demystified.html)
  - August, 2020 - [Android’s Attribute android:allowBackup Demystified](https://medium.com/better-programming/androids-attribute-android-allowbackup-demystified-114b88087e3b?source=activity---post_recommended_rollup)
  - July, 2020 : [Android Development | Best Practices](https://proandroiddev.com/android-development-best-practices-7278e9cdbbe9)
  - June, 2020 : [How I resolved WindowManager.BadTokenException for Toast#handleShow()?](https://proandroiddev.com/how-i-resolved-windowmanager-badtokenexception-for-toast-handleshow-2308203ebb91)
