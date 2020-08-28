@@ -122,7 +122,8 @@ She has the following open-source demo projects :
  - [Layout Performance Analysis](https://github.com/niharika2810/LayoutPerformance-Analysis-App) - A Demo Application with different XMLs developed using different viewgroups for same UI screens to measure layout performance.Please go through the [Medium Blog](https://medium.com/1mgofficial/constraintlayout-vs-other-layouts-a-battle-towards-performance-part-1-14d8116e876e) for the results.
  - [SectionedRecyclerView](https://github.com/niharika2810/SectionedRecyclerView-Sample) - A Sample project explaining how to create sections in Recyclerview with Pixel perfect UI, given a sample input.
   - [Android-DS-Java Interview Questions Repo](https://github.com/niharika2810/android-interview-questions) - A repository containing interview questions on DS, Java & Android based on my experiences.
-   - [Android Development | Best Practices](https://github.com/niharika2810/android-development-best-practices) - With best practices under your fingertips, you will not lose precious time on reinventing the wheel. Instead, you can focus on writing quality code and getting the job done.
+  - [Android Development-Best Practices](https://github.com/niharika2810/android-development-best-practices) - With best practices under your fingertips, you will not lose precious time on reinventing the wheel. Instead, you can focus on writing quality code and getting the job done.
+  - [ScopedStorageDemo](https://github.com/niharika2810/ScopedStorageDemo) - A sample project explaining Scoped storage with different operations performed on file as well as Image.
 
 <a href="https://github.com/niharika2810/ToastHandler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niharika2810&repo=ToastHandler&theme=dark&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
