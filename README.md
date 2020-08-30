@@ -8,7 +8,7 @@ She is  an active technical blogger and started her journey as a speaker from [A
 She is  an interactive person ,a good listener and can convey her thoughts clearly.  A big time  fitness freak and an avid  partygoer who love to dance adds a wow  factor in her persona  ,she can handle the questions well and is a Solution seeker which creates  a healthy environment in her  workplace .<br/>
 Recently, she was invited by [Truepush](https://www.truepush.com/) for a **PODCAST** telling  "[The story behind the inception of India's Contact Tracing app](https://www.truepush.com/blog/podcast-ep-9-the-story-behind-the-inception-of-indias-aarogya-setu-app/?fbclid=IwAR3AQK1TDyyUEZHHghHFHwR6hp7M0tFUdagfPi0dBtZMpWFeV3178c5zP6I)".<br/>
 
-She is also a **MENTOR** at [MentorCruise](https://mentorcruise.com/mentor/NiharikaArora/) helping people with their queries regarding their career, latest trends, architecture and best practices.
+Apart from coding stuff, She loves to mentor people with their queries regarding their career, latest trends, architecture and best practices.
 
 She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/indiamentor.com/) for her contributions towards the [community](https://www.linkedin.com/posts/thedroidlady_hardwork-rewards-sharingknowledge-activity-6696836835148132352-9d2B).
 <br/><br/>
