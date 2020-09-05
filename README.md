@@ -24,6 +24,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19.
  - Invited for Interview on AarogyaSetu with Pawan Kumar(GDE) on [MtechViral Youtube Live Streaming](https://www.youtube.com/watch?v=EaW-27DRRwQ) for Android Stream Day(8-9th August 2020).
   - [Recro Webinar](https://www.airmeet.com/e/16f03cd0-ec3b-11ea-a6e4-9b46f4e34d84) on [Unit Testing- Why, What and How](https://speakerdeck.com/niharika28/unit-testing-what-why-and-how) on Sep,5 2020.
+  - Appointed as [WomenTech Global Ambassador](https://www.linkedin.com/company/womentech-network/mycompany/)
   - Webinar on [Understanding the core of AarogyaSetu App: Bluetooth](https://www.youtube.com/watch?v=K4SLf3y6zmE&feature=youtu.be)[(PPT link)](https://speakerdeck.com/niharika28/understanding-the-core-of-aarogyasetu-app-bluetooth-low-energy-ble) on July 11th,2020 at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/271755904/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJDNlZmNhMjRmLWNhZDgtNGRhNi1iZTRkLTliYTc2YjhkODJjMg)
    - Article on [Android Development | Best Practices](https://proandroiddev.com/android-development-best-practices-7278e9cdbbe9), posted in [ProAndroidDev Digest  #24](https://proandroiddev.com/proandroiddev-digest-24-52d8e2c517a3)
   - Article on [How I resolved BadTokenException for Toast#handleShow()?](https://proandroiddev.com/how-i-resolved-windowmanager-badtokenexception-for-toast-handleshow-2308203ebb91).
@@ -32,6 +33,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Speaker at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/268419995/): *Unit Testing in Android * on *Feb 22, 2020* 
  - Joined [Mindorks](https://mindorks.com/) as a Writer, [ProAndroidDev](https://proandroiddev.com/) as a Writer and [AarogyaSetu](https://medium.com/aarogyasetu) as an Editor.
  - Contributed to [Open-Trace app](https://github.com/opentrace-community/opentrace-android), Contact tracing app for Singapure.
+
  
 
 ### Coolest \m/
@@ -85,6 +87,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Editor at [AarogyaSetu](https://medium.com/aarogyasetu) and [1mg](https://medium.com/1mgofficial)
  - Volunteer : [Droidcon India, 2019](https://www.droidcon.co.in/) *2nd-3rd Nov, 2019* 
  - Member : [WomenDroid, Bangalore](https://twitter.com/womendroid?lang=en), [WomenTechMakers](https://www.womentechmakers.com/), [Android Developers Group](https://www.meetup.com/adg-delhi/), [blrDroid](https://www.meetup.com/blrdroid/)
+ - [WomenTech Global Ambassador](https://www.linkedin.com/company/womentech-network/mycompany/)
  
 
 ### Technical Writing Experience 
