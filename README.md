@@ -23,6 +23,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Developed [AarogyaSetu app](https://github.com/nic-delhi/AarogyaSetu_Android/graphs/contributors) and served the country in this tough times.
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19.
  - Invited for Interview on AarogyaSetu with Pawan Kumar(GDE) on [MtechViral Youtube Live Streaming](https://www.youtube.com/watch?v=EaW-27DRRwQ) for Android Stream Day(8-9th August 2020).
+  - Recro Webinar[https://www.airmeet.com/e/16f03cd0-ec3b-11ea-a6e4-9b46f4e34d84] on [Unit Testing- Why, What and How](https://speakerdeck.com/niharika28/unit-testing-what-why-and-how) on Sep,5 2020.
   - Webinar on [Understanding the core of AarogyaSetu App: Bluetooth](https://www.youtube.com/watch?v=K4SLf3y6zmE&feature=youtu.be)[(PPT link)](https://speakerdeck.com/niharika28/understanding-the-core-of-aarogyasetu-app-bluetooth-low-energy-ble) on July 11th,2020 at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/271755904/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJDNlZmNhMjRmLWNhZDgtNGRhNi1iZTRkLTliYTc2YjhkODJjMg)
    - Article on [Android Development | Best Practices](https://proandroiddev.com/android-development-best-practices-7278e9cdbbe9), posted in [ProAndroidDev Digest  #24](https://proandroiddev.com/proandroiddev-digest-24-52d8e2c517a3)
   - Article on [How I resolved BadTokenException for Toast#handleShow()?](https://proandroiddev.com/how-i-resolved-windowmanager-badtokenexception-for-toast-handleshow-2308203ebb91).
@@ -38,6 +39,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Developed [AarogyaSetu app](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN) in less than 15 days.(Optimizations and feature enhacements are still on)<br/>
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19. 
  - Got **Award of Chancellor Gold Medal for JCBOSE,YMCAUST 2011-2015 Batch** by Honourable State Governor.
+ - Articl on [Android Learning Resources](https://medium.com/@nik.arora8059/android-learning-resources-77a67a77d340) featured in [Dor Moshe's Android Learning resources](https://dormoshe.io/newsletters/ag/android/19?utm_source=twitter&utm_campaign=twitter)
  - Article on [Android Scoped Storage Demistyfied](https://thedroidlady.com/2020/08/24/android-scoped-storage-demystified.html) featured in [Dor Moshe's Android Newsletter](https://dormoshe.io/newsletters/ag/android/18?utm_source=twitter&utm_campaign=twitter7)
  - Article on [Android’s Attribute android:allowBackup Demystified](https://medium.com/better-programming/androids-attribute-android-allowbackup-demystified-114b88087e3b) got featured in [OnCreate Digest Android newsletter](http://www.oncreatedigest.com/issues/oncreate-digest-issue-18-270712)
  - Her library for fixing [Toast BadTokenException](https://ibb.co/ygNVVGG) published on June 17th,2020 has approx. 82 downloads so far within 2 months
@@ -76,6 +78,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
 
 <br/><br/>
 ### Community Experience
+- Recro Webinar[https://www.airmeet.com/e/16f03cd0-ec3b-11ea-a6e4-9b46f4e34d84] on [Unit Testing- Why, What and How](https://speakerdeck.com/niharika28/unit-testing-what-why-and-how) on Sep,5 2020.
  - Webinar on [Understanding the core of AarogyaSetu App: Bluetooh](https://www.youtube.com/watch?v=K4SLf3y6zmE&feature=youtu.be) on July 11th,2020 at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/271755904/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJDNlZmNhMjRmLWNhZDgtNGRhNi1iZTRkLTliYTc2YjhkODJjMg)
  - Speaker at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/268419995/): *Unit Testing in Android * on *Feb 22, 2020*, [(PPT Link)](https://speakerdeck.com/niharika28/unit-testing-in-android) & [(Youtube Link)](https://www.youtube.com/watch?v=0K4S3vkulGc&t=1s)
  - Writer at [Better Programming](https://medium.com/better-programming), [ProAndroidDev](https://proandroiddev.com/) and [Noteworthy](https://noteworthy.medium.com/)
@@ -87,6 +90,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
 ### Technical Writing Experience 
 
 She likes to share her findings and experiments with the community and here's a list of the articles written by her:
+ - August,2020 - [Android Learning Resources](https://thedroidlady.com/2020/08/31/android-learning-resources.html)
  - August, 2020 - [Android Scoped Storage Demystified](https://thedroidlady.com/2020/08/24/android-scoped-storage-demystified.html)
  - August, 2020 - [Android’s Attribute android:allowBackup Demystified](https://medium.com/better-programming/androids-attribute-android-allowbackup-demystified-114b88087e3b?source=activity---post_recommended_rollup)
  - July, 2020 : [Android Development | Best Practices](https://proandroiddev.com/android-development-best-practices-7278e9cdbbe9)
