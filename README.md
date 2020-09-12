@@ -94,8 +94,8 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
 ### Technical Writing Experience 
 
 She likes to share her findings and experiments with the community and here's a list of the articles written by her:
- - August,2020 - [Android Learning Resources](https://thedroidlady.com/2020/08/31/android-learning-resources.html)
- - August, 2020 - [Android Scoped Storage Demystified](https://thedroidlady.com/2020/08/24/android-scoped-storage-demystified.html)
+ - August,2020 - [Android Learning Resources](https://thedroidlady.com/2020-08-31-android-learning-resources)
+ - August, 2020 - [Android Scoped Storage Demystified](https://thedroidlady.com/2020-08-24-android-scoped-storage-demystified)
  - August, 2020 - [Android’s Attribute android:allowBackup Demystified](https://medium.com/better-programming/androids-attribute-android-allowbackup-demystified-114b88087e3b?source=activity---post_recommended_rollup)
  - July, 2020 : [Android Development | Best Practices](https://proandroiddev.com/android-development-best-practices-7278e9cdbbe9)
  - June, 2020 : [How I resolved WindowManager.BadTokenException for Toast#handleShow()?](https://proandroiddev.com/how-i-resolved-windowmanager-badtokenexception-for-toast-handleshow-2308203ebb91)
