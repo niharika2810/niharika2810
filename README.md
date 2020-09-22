@@ -1,5 +1,7 @@
 # About [Niharika Arora](https://thedroidlady.com/)
 
+![](https://komarev.com/ghpvc/?username=niharika2810)
+
 Note: I am available [here](https://thedroidlady.com/) for more updates.
 
 [Niharika Arora](https://www.linkedin.com/in/thedroidlady/) is currently working as a Senior Software Engineer at [1mg](https://www.1mg.com/).<br/>
