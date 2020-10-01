@@ -10,7 +10,7 @@ She is  an active technical blogger and started her journey as a speaker from [A
 She is  an interactive person ,a good listener and can convey her thoughts clearly.  A big time  fitness freak and an avid  partygoer who love to dance adds a wow  factor in her persona  ,she can handle the questions well and is a Solution seeker which creates  a healthy environment in her  workplace .<br/>
 Recently, she was invited by [Truepush](https://www.truepush.com/) for a **PODCAST** telling  "[The story behind the inception of India's Contact Tracing app](https://www.truepush.com/blog/podcast-ep-9-the-story-behind-the-inception-of-indias-aarogya-setu-app/?fbclid=IwAR3AQK1TDyyUEZHHghHFHwR6hp7M0tFUdagfPi0dBtZMpWFeV3178c5zP6I)".<br/>
 
-Apart from coding stuff, She loves to mentor people with their queries regarding their career, latest trends, architecture and best practices.
+Apart from coding stuff, She loves to mentor people with their queries regarding their career, latest trends, architecture and best practices. She is a WomenTech Global ambassador as well.
 
 She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/indiamentor.com/) for her contributions towards the [community](https://www.linkedin.com/posts/thedroidlady_hardwork-rewards-sharingknowledge-activity-6696836835148132352-9d2B).
 <br/><br/>
@@ -25,7 +25,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Developed [AarogyaSetu app](https://github.com/nic-delhi/AarogyaSetu_Android/graphs/contributors) and served the country in this tough times.
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19.
  - Invited for Interview on AarogyaSetu with Pawan Kumar(GDE) on [MtechViral Youtube Live Streaming](https://www.youtube.com/watch?v=EaW-27DRRwQ) for Android Stream Day(8-9th August 2020).
-  - [Recro Webinar](https://www.airmeet.com/e/16f03cd0-ec3b-11ea-a6e4-9b46f4e34d84) on [Unit Testing- Why, What and How](https://speakerdeck.com/niharika28/unit-testing-what-why-and-how) on Sep,5 2020.
+  - [Recro Webinar](https://www.airmeet.com/e/16f03cd0-ec3b-11ea-a6e4-9b46f4e34d84) on [Unit Testing- Why, What and How](https://speakerdeck.com/niharika28/unit-testing-what-why-and-how) on Sep,5 2020. This event had approx. 350 registrations and 176 attendees.
   - Appointed as [WomenTech Global Ambassador](https://www.linkedin.com/company/womentech-network/mycompany/)
   - Webinar on [Understanding the core of AarogyaSetu App: Bluetooth](https://www.youtube.com/watch?v=K4SLf3y6zmE&feature=youtu.be)[(PPT link)](https://speakerdeck.com/niharika28/understanding-the-core-of-aarogyasetu-app-bluetooth-low-energy-ble) on July 11th,2020 at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/271755904/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJDNlZmNhMjRmLWNhZDgtNGRhNi1iZTRkLTliYTc2YjhkODJjMg)
    - Article on [Android Development | Best Practices](https://proandroiddev.com/android-development-best-practices-7278e9cdbbe9), posted in [ProAndroidDev Digest  #24](https://proandroiddev.com/proandroiddev-digest-24-52d8e2c517a3)
@@ -43,11 +43,13 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Developed [AarogyaSetu app](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN) in less than 15 days.(Optimizations and feature enhacements are still on)<br/>
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19. 
  - Got **Award of Chancellor Gold Medal for JCBOSE,YMCAUST 2011-2015 Batch** by Honourable State Governor.
+ - Speaker at [DevFest-India 2020](https://twitter.com/GoogleDevsIN/status/1309349408547373061)
  - Featured for guidance around [BLE architecture](https://www.researchime.in/post/the-third-part-of-aviraj-s-journey)
+ - Article on [https://medium.com/1mgofficial/how-recyclerview-works-internally-71290de5d2c4](How RecyclerView works internally?) featured in MobDevsCafe's [Android Newsletter](https://mobiledeveloperscafe.substack.com/p/mdc-weekly-blend-edition-7)
  - Article on [Android Learning Resources](https://medium.com/@nik.arora8059/android-learning-resources-77a67a77d340) featured in [Dor Moshe's Android Learning resources](https://dormoshe.io/newsletters/ag/android/19?utm_source=twitter&utm_campaign=twitter)
  - Article on [Android Scoped Storage Demistyfied](https://thedroidlady.com/2020/08/24/android-scoped-storage-demystified.html) featured in [Dor Moshe's Android Newsletter](https://dormoshe.io/newsletters/ag/android/18?utm_source=twitter&utm_campaign=twitter7)
  - Article on [Android’s Attribute android:allowBackup Demystified](https://medium.com/better-programming/androids-attribute-android-allowbackup-demystified-114b88087e3b) got featured in [OnCreate Digest Android newsletter](http://www.oncreatedigest.com/issues/oncreate-digest-issue-18-270712)
- - Her library for fixing [Toast BadTokenException](https://ibb.co/ygNVVGG) published on June 17th,2020 has approx. 82 downloads so far within 2 months
+ - Her library wrapper for fixing [Toast BadTokenException](https://ibb.co/R3WHggK) has more than 150 downloads so far within few months.
  - Article on [How I resolved BadTokenException for Toast#handleShow()?](https://proandroiddev.com/how-i-resolved-windowmanager-badtokenexception-for-toast-handleshow-2308203ebb91) got TRENDING on LinkedIn and on [ProAndroidDev](https://ibb.co/55cJ30T) for a month since the day it got published.
  - Article on [Understanding the core of Aarogya Setu App: Bluetooth](https://medium.com/aarogyasetu/understanding-the-core-of-aarogya-setu-bluetooth-c09de3143fd2) got [TRENDING](https://ibb.co/0y2m7nn) on LinkedIn.
  - Featured in [Droidcon](https://ibb.co/Zx1zgjF) Today's Highlight for the article [https://proandroiddev.com/constraintlayout-vs-other-layouts-a-battle-towards-performance-part-1-14d8116e876e](https://proandroiddev.com/constraintlayout-vs-other-layouts-a-battle-towards-performance-part-1-14d8116e876e)
@@ -91,11 +93,13 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Volunteer : [Droidcon India, 2019](https://www.droidcon.co.in/) *2nd-3rd Nov, 2019* 
  - Member : [WomenDroid, Bangalore](https://twitter.com/womendroid?lang=en), [WomenTechMakers](https://www.womentechmakers.com/), [Android Developers Group](https://www.meetup.com/adg-delhi/), [blrDroid](https://www.meetup.com/blrdroid/)
  - [WomenTech Global Ambassador](https://www.linkedin.com/company/womentech-network/mycompany/)
+ - Speaker at [DevFest India 2020](https://devfestindia.com/speakers)
  
 
 ### Technical Writing Experience 
 
 She likes to share her findings and experiments with the community and here's a list of the articles written by her:
+ - September, 2020 - [How RecyclerView works internally?](https://thedroidlady.com/2020-09-18-how-recyclerView-works-internally)
  - August,2020 - [Android Learning Resources](https://thedroidlady.com/2020-08-31-android-learning-resources)
  - August, 2020 - [Android Scoped Storage Demystified](https://thedroidlady.com/2020-08-24-android-scoped-storage-demystified)
  - August, 2020 - [Android’s Attribute android:allowBackup Demystified](https://medium.com/better-programming/androids-attribute-android-allowbackup-demystified-114b88087e3b?source=activity---post_recommended_rollup)
