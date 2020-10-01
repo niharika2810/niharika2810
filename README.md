@@ -44,7 +44,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19. 
  - Got **Award of Chancellor Gold Medal for JCBOSE,YMCAUST 2011-2015 Batch** by Honourable State Governor.
  - Speaker at [DevFest-India 2020](https://twitter.com/GoogleDevsIN/status/1309349408547373061)
- - Featured for guidance around [BLE architecture](https://www.researchime.in/post/the-third-part-of-aviraj-s-journey)
+ - Featured for guidance around [BLE architecture](https://www.researchime.in/post/the-third-part-of-aviraj-s-journey).
  - Article on [https://medium.com/1mgofficial/how-recyclerview-works-internally-71290de5d2c4](How RecyclerView works internally?) featured in MobDevsCafe's [Android Newsletter](https://mobiledeveloperscafe.substack.com/p/mdc-weekly-blend-edition-7)
  - Article on [Android Learning Resources](https://medium.com/@nik.arora8059/android-learning-resources-77a67a77d340) featured in [Dor Moshe's Android Learning resources](https://dormoshe.io/newsletters/ag/android/19?utm_source=twitter&utm_campaign=twitter)
  - Article on [Android Scoped Storage Demistyfied](https://thedroidlady.com/2020/08/24/android-scoped-storage-demystified.html) featured in [Dor Moshe's Android Newsletter](https://dormoshe.io/newsletters/ag/android/18?utm_source=twitter&utm_campaign=twitter7)
