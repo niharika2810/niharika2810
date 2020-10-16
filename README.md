@@ -12,6 +12,8 @@ Recently, she was invited by [Truepush](https://www.truepush.com/) for a **PODCA
 
 Apart from coding stuff, She loves to mentor people with their queries regarding their career, latest trends, architecture and best practices. She is a WomenTech Global ambassador as well.
 
+She was one of the panellist for [Google DevFest India 2020](https://twitter.com/DevfestIndia/status/1317073679885324289).
+
 She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/indiamentor.com/) for her contributions towards the [community](https://www.linkedin.com/posts/thedroidlady_hardwork-rewards-sharingknowledge-activity-6696836835148132352-9d2B).
 <br/><br/>
 <a href="https://github.com/niharika2810?tab=repositories">
