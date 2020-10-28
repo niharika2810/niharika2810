@@ -7,7 +7,7 @@ Note: I am available [here](https://thedroidlady.com/) for more updates.
 [Niharika Arora](https://www.linkedin.com/in/thedroidlady/) is currently working as a Senior Software Engineer at [1mg](https://www.1mg.com/).<br/>
 She started her career as an Android Developer with company like [myPAT](https://mypat.in/) Delhi and [Cube26](https://www.linkedin.com/company/cube26/).<br/>
 She is  an active technical blogger and started her journey as a speaker from [Android Developers group,Delhi](https://www.meetup.com/GDGNewDelhi/).She had completed her graduation from [JCBOSE YMCAUST,Faridabad](https://jcboseust.ac.in/).<br/>
-She is  an interactive person ,a good listener and can convey her thoughts clearly.  A big time  fitness freak and an avid  partygoer who love to dance adds a wow  factor in her persona  ,she can handle the questions well and is a Solution seeker which creates  a healthy environment in her  workplace .<br/>
+She is  an interactive person ,a good listener and can convey her thoughts clearly.  A Big time  fitness freak and an avid  partygoer who love to dance adds a wow  factor in her persona, she can handle the questions well and is a Solution seeker which creates  a healthy environment in her  workplace.<br/>
 Recently, she was invited by [Truepush](https://www.truepush.com/) for a **PODCAST** telling  "[The story behind the inception of India's Contact Tracing app](https://www.truepush.com/blog/podcast-ep-9-the-story-behind-the-inception-of-indias-aarogya-setu-app/?fbclid=IwAR3AQK1TDyyUEZHHghHFHwR6hp7M0tFUdagfPi0dBtZMpWFeV3178c5zP6I)".<br/>
 
 Apart from coding stuff, She loves to mentor people with their queries regarding their career, latest trends, architecture and best practices. She is a WomenTech Global ambassador as well.
@@ -24,7 +24,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
 </a>
 
 ### Latest
- - Developed [AarogyaSetu app](https://github.com/nic-delhi/AarogyaSetu_Android/graphs/contributors) and served the country in this tough times.
+ - Contributor at [AarogyaSetu app](https://github.com/nic-delhi/AarogyaSetu_Android/graphs/contributors) and served the country in this tough times.
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19.
  - Invited for Interview on AarogyaSetu with Pawan Kumar(GDE) on [MtechViral Youtube Live Streaming](https://www.youtube.com/watch?v=EaW-27DRRwQ) for Android Stream Day(8-9th August 2020).
   - [Recro Webinar](https://www.airmeet.com/e/16f03cd0-ec3b-11ea-a6e4-9b46f4e34d84) on [Unit Testing- Why, What and How](https://speakerdeck.com/niharika28/unit-testing-what-why-and-how) on Sep,5 2020. This event had approx. 350 registrations and 176 attendees.
@@ -38,11 +38,9 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Joined [Mindorks](https://mindorks.com/) as a Writer, [ProAndroidDev](https://proandroiddev.com/) as a Writer and [AarogyaSetu](https://medium.com/aarogyasetu) as an Editor.
  - Contributed to [Open-Trace app](https://github.com/opentrace-community/opentrace-android), Contact tracing app for Singapure.
 
- 
-
 ### Coolest \m/
 
- - Developed [AarogyaSetu app](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN) in less than 15 days.(Optimizations and feature enhacements are still on)<br/>
+ - Contributor at [AarogyaSetu app](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN) in less than 15 days.(Optimizations and feature enhacements are still on)<br/>
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19. 
  - Got **Award of Chancellor Gold Medal for JCBOSE,YMCAUST 2011-2015 Batch** by Honourable State Governor.
  - Speaker at [DevFest-India 2020](https://twitter.com/GoogleDevsIN/status/1309349408547373061)
