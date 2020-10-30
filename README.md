@@ -70,7 +70,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
 <a href="https://www.linkedin.com/in/thedroidlady/">
   <img align="left" alt="Niharika's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@nik.arora8059">
+<a href="https://nik-arora8059.medium.com/">
   <img align="left" alt="Niharika's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://github.com/niharika2810">
