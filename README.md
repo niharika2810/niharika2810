@@ -36,7 +36,6 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Article on [Pitfalls in WebView Implementation](https://medium.com/1mgofficial/pitfalls-in-android-webview-implementation-b6524f9f38bb)
  - Speaker at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/268419995/): *Unit Testing in Android * on *Feb 22, 2020* 
  - Joined [Mindorks](https://mindorks.com/) as a Writer, [ProAndroidDev](https://proandroiddev.com/) as a Writer and [AarogyaSetu](https://medium.com/aarogyasetu) as an Editor.
- - Contributed to [Open-Trace app](https://github.com/opentrace-community/opentrace-android), Contact tracing app for Singapure.
 
 ### Coolest \m/
 
