@@ -59,7 +59,6 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Created [ToastHandler](https://github.com/niharika2810/ToastHandler) library to fix WindowManager.BadToastException happening on Android 25
 - Her Articles like [Memory Management in Android](https://medium.com/@nik.arora8059/memory-management-in-android-3bdf307c8e23) , [Top Android Interview Questions](https://blog.usejournal.com/interview-questions-for-android-java-ds-f5081cb3aa09) , [Unit Testing in MVVM+Kotlin+DataBinding](https://medium.com/1mgofficial/unit-testing-in-mvvm-kotlin-databinding-ba3d4ea08f0e) and many others come in **Top** searches on Google.
  - Research on different ViewGroups for better layout performance using **Systrace** and other tools, created one [sample application](https://github.com/niharika2810/LayoutPerformance-Analysis-App) for demonstrating the results
- - Contributed to [Zxing Library](https://github.com/journeyapps/zxing-android-embedded/pulls) for creating Custom Scanner having preview rectangle with borders.
 
 
 ### Social Links
