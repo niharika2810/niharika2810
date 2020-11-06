@@ -4,7 +4,7 @@
 
 Note: I am available [here](https://thedroidlady.com/) for more updates.
 
-[Niharika Arora](https://www.linkedin.com/in/thedroidlady/) is currently working as a Senior Software Engineer at [1mg](https://www.1mg.com/).<br/>
+[Niharika Arora](https://www.linkedin.com/in/thedroidlady/) is Google Developer Expert for Android and currently working as a Senior Software Engineer at [1mg](https://www.1mg.com/).<br/>
 She started her career as an Android Developer with company like [myPAT](https://mypat.in/) Delhi and [Cube26](https://www.linkedin.com/company/cube26/).<br/>
 She is  an active technical blogger and started her journey as a speaker from [Android Developers group,Delhi](https://www.meetup.com/GDGNewDelhi/).She had completed her graduation from [JCBOSE YMCAUST,Faridabad](https://jcboseust.ac.in/).<br/>
 She is  an interactive person ,a good listener and can convey her thoughts clearly.  A Big time  fitness freak and an avid  partygoer who love to dance adds a wow  factor in her persona, she can handle the questions well and is a Solution seeker which creates  a healthy environment in her  workplace.<br/>
