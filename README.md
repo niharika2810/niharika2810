@@ -97,6 +97,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
 ### Technical Writing Experience 
 
 She likes to share her findings and experiments with the community and here's a list of the articles written by her:
+ - Novemeber, 2020 - [Android Data Binding: Under the Hood Part-1](https://proandroiddev.com/android-data-binding-under-the-hood-part-1-33b8c7adfb7c)
  - September, 2020 - [How RecyclerView works internally?](https://thedroidlady.com/2020-09-18-how-recyclerView-works-internally)
  - August,2020 - [Android Learning Resources](https://thedroidlady.com/2020-08-31-android-learning-resources)
  - August, 2020 - [Android Scoped Storage Demystified](https://thedroidlady.com/2020-08-24-android-scoped-storage-demystified)
