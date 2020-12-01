@@ -42,6 +42,10 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Contributor at [AarogyaSetu app](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN) which was developed in less than 15 days.(Optimizations and feature enhacements are still on)<br/>
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19. 
  - Got **Award of Chancellor Gold Medal for JCBOSE,YMCAUST 2011-2015 Batch** by Honourable State Governor.
+ - Judge at [OctaHacks 3.0](https://twitter.com/dscciet/status/1329115972372893696)
+ - Speaker at [DSC Android Study Jams](https://dsc.community.dev/events/details/developer-student-clubs-punjab-university-college-of-information-technology-presents-become-an-android-developer/)
+ - Speaker at [Kotlin Kolkata for talk "Make Your App Production Ready"](https://www.youtube.com/watch?v=OuafF5Q_qUg&t=365s&ab_channel=KotlinKolkata)
+ - Article on [How RecyclerView works internally?](https://twitter.com/theDroidLady/status/1326086062880403458) shared in Korean language.
  - Speaker at [DevFest-India 2020](https://twitter.com/GoogleDevsIN/status/1309349408547373061)
  - Featured for guidance around [BLE architecture](https://www.researchime.in/post/the-third-part-of-aviraj-s-journey).
  - Featured in [ProAndroid Weekly Digest](https://proandroiddev.com/proandroiddev-weekly-digest-android-data-binding-jetpack-compose-more-b8660a813f8d)
