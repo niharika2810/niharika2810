@@ -42,6 +42,8 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Contributor at [AarogyaSetu app](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN) which was developed in less than 15 days.(Optimizations and feature enhacements are still on)<br/>
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19. 
  - Got **Award of Chancellor Gold Medal for JCBOSE,YMCAUST 2011-2015 Batch** by Honourable State Governor.
+  - Featured on Corporate Insight [Simply TWO Book Series](http://corporateinsight.online/?p=202).
+ - Speaker at [Droidcon APAC 2020](https://www.droidcon.com/media-detail?video=491019062)
  - Judge at [OctaHacks 3.0](https://twitter.com/dscciet/status/1329115972372893696)
  - Speaker at [DSC Android Study Jams](https://dsc.community.dev/events/details/developer-student-clubs-punjab-university-college-of-information-technology-presents-become-an-android-developer/)
  - Speaker at [Kotlin Kolkata for talk "Make Your App Production Ready"](https://www.youtube.com/watch?v=OuafF5Q_qUg&t=365s&ab_channel=KotlinKolkata)
@@ -97,6 +99,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Member : [WomenDroid, Bangalore](https://twitter.com/womendroid?lang=en), [WomenTechMakers](https://www.womentechmakers.com/), [Android Developers Group](https://www.meetup.com/adg-delhi/), [blrDroid](https://www.meetup.com/blrdroid/)
  - [WomenTech Global Ambassador](https://www.linkedin.com/company/womentech-network/mycompany/)
  - Speaker at [DevFest India 2020](https://devfestindia.com/speakers)
+ - Speaker at [Droidcon APAC 2020](https://www.droidcon.com/media-detail?video=491019062)
  
 
 ### Technical Writing Experience 
@@ -143,7 +146,8 @@ She has the following open-source demo projects :
   - [Android Development-Best Practices](https://github.com/niharika2810/android-development-best-practices) - With best practices under your fingertips, you will not lose precious time on reinventing the wheel. Instead, you can focus on writing quality code and getting the job done.
   - [ScopedStorageDemo](https://github.com/niharika2810/ScopedStorageDemo) - A sample project explaining Scoped storage with different operations performed on file as well as Image.
  - [Android Learning Resources](https://github.com/niharika2810/android-learning-resources) - A repository containing link/resources to small, basic as well as specific android concepts.
- 
+  - [MovieTray](https://github.com/niharika2810/MovieTray) - Its a playground application focusing on Paging3, MVVM architecture, Kotlin Extension functions, Retrofit, DSL, Navigation component, MotionLayout, SharedElementTransition, Single Activity Architecture, DataStore etc.
+  
 <a href="https://github.com/niharika2810/ToastHandler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niharika2810&repo=ToastHandler&theme=dark&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
 </a>
