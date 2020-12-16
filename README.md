@@ -148,7 +148,7 @@ She has the following open-source demo projects :
  - [Android Learning Resources](https://github.com/niharika2810/android-learning-resources) - A repository containing link/resources to small, basic as well as specific android concepts.
   - [MovieTray](https://github.com/niharika2810/MovieTray) - Its a playground application focusing on Paging3, MVVM architecture, Kotlin Extension functions, Retrofit, DSL, Navigation component, MotionLayout, SharedElementTransition, Single Activity Architecture, DataStore etc.
   
-<a href="https://github.com/niharika2810/ToastHandler">
+<a href="https://github.com/niharika2810/MovieTray">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niharika2810&repo=ToastHandler&theme=dark&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
 </a>
 <a href="https://github.com/niharika2810/android-interview-questions">
