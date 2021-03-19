@@ -16,6 +16,8 @@ Apart from coding stuff, She loves to mentor people with their queries regarding
 
 She was one of the panellist for [Google DevFest India 2020](https://twitter.com/DevfestIndia/status/1317073679885324289).
 
+Recently, She got featured on [Android Developers Blog](https://twitter.com/AndroidDev/status/1355607032943038469).
+
 She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/indiamentor.com/) for her contributions towards the [community](https://www.linkedin.com/posts/thedroidlady_hardwork-rewards-sharingknowledge-activity-6696836835148132352-9d2B).
 <br/><br/>
 <a href="https://github.com/niharika2810?tab=repositories">
@@ -29,6 +31,8 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Contributor at [AarogyaSetu app](https://github.com/nic-delhi/AarogyaSetu_Android/graphs/contributors) and served the country in this tough times.
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19.
  - Invited for Interview on AarogyaSetu with Pawan Kumar(GDE) on [MtechViral Youtube Live Streaming](https://www.youtube.com/watch?v=EaW-27DRRwQ) for Android Stream Day(8-9th August 2020).
+  - Tech Reveiwer at [raywenderlich.com](https://www.raywenderlich.com/)
+  - Tech reveiwer at Packt Publishing for the book [How to build Android apps with Kotlin](https://twitter.com/theDroidLady/status/1368228232877600768)
   - [Recro Webinar](https://www.airmeet.com/e/16f03cd0-ec3b-11ea-a6e4-9b46f4e34d84) on [Unit Testing- Why, What and How](https://speakerdeck.com/niharika28/unit-testing-what-why-and-how) on Sep,5 2020. This event had approx. 350 registrations and 176 attendees.
   - Appointed as [WomenTech Global Ambassador](https://www.linkedin.com/company/womentech-network/mycompany/)
   - Webinar on [Understanding the core of AarogyaSetu App: Bluetooth](https://www.youtube.com/watch?v=K4SLf3y6zmE&feature=youtu.be)[(PPT link)](https://speakerdeck.com/niharika28/understanding-the-core-of-aarogyasetu-app-bluetooth-low-energy-ble) on July 11th,2020 at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/271755904/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJDNlZmNhMjRmLWNhZDgtNGRhNi1iZTRkLTliYTc2YjhkODJjMg)
@@ -102,6 +106,11 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - [WomenTech Global Ambassador](https://www.linkedin.com/company/womentech-network/mycompany/)
  - Speaker at [DevFest India 2020](https://devfestindia.com/speakers)
  - Speaker at [Droidcon APAC 2020](https://www.droidcon.com/media-detail?video=491019062)
+ - Speaker at [Android Worldwide 2021](https://www.youtube.com/watch?v=IuAylFLvGnc&ab_channel=AndroidWorldwide)
+ - Speaker at [WomendDroid 2021](https://twitter.com/pblead26/status/1355225825298186243)
+ - Speaker at [SPEC__NITH hackathon](https://twitter.com/SPEC__NITH/status/1356539896647852033)
+ 
+
  
 
 ### Technical Writing Experience 
