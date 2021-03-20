@@ -31,8 +31,8 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Contributor at [AarogyaSetu app](https://github.com/nic-delhi/AarogyaSetu_Android/graphs/contributors) and served the country in this tough times.
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19.
  - Invited for Interview on AarogyaSetu with Pawan Kumar(GDE) on [MtechViral Youtube Live Streaming](https://www.youtube.com/watch?v=EaW-27DRRwQ) for Android Stream Day(8-9th August 2020).
-  - Tech Reveiwer at [raywenderlich.com](https://www.raywenderlich.com/)
-  - Tech reveiwer at Packt Publishing for the book [How to build Android apps with Kotlin](https://twitter.com/theDroidLady/status/1368228232877600768)
+  - Tech Editor at [raywenderlich.com](https://www.raywenderlich.com/)
+  - Tech Reviewer at Packt Publishing for the book [How to build Android apps with Kotlin](https://twitter.com/theDroidLady/status/1368228232877600768)
   - [Recro Webinar](https://www.airmeet.com/e/16f03cd0-ec3b-11ea-a6e4-9b46f4e34d84) on [Unit Testing- Why, What and How](https://speakerdeck.com/niharika28/unit-testing-what-why-and-how) on Sep,5 2020. This event had approx. 350 registrations and 176 attendees.
   - Appointed as [WomenTech Global Ambassador](https://www.linkedin.com/company/womentech-network/mycompany/)
   - Webinar on [Understanding the core of AarogyaSetu App: Bluetooth](https://www.youtube.com/watch?v=K4SLf3y6zmE&feature=youtu.be)[(PPT link)](https://speakerdeck.com/niharika28/understanding-the-core-of-aarogyasetu-app-bluetooth-low-energy-ble) on July 11th,2020 at [Android Developers Group,Delhi meetup](https://www.meetup.com/adg-delhi/events/271755904/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJDNlZmNhMjRmLWNhZDgtNGRhNi1iZTRkLTliYTc2YjhkODJjMg)
