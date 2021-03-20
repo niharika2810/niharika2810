@@ -8,7 +8,6 @@ Note: I am available [here](https://thedroidlady.com/) for more updates.
 She started her career as an Android Developer with company like [myPAT](https://mypat.in/) Delhi and [Cube26](https://www.linkedin.com/company/cube26/).<br/>
 She is  an active technical blogger and started her journey as a speaker from [Android Developers group,Delhi](https://www.meetup.com/GDGNewDelhi/).She had completed her graduation from [JCBOSE YMCAUST,Faridabad](https://jcboseust.ac.in/).<br/>
 She is  an interactive person ,a good listener and can convey her thoughts clearly.  A Big time  fitness freak and an avid  partygoer who love to dance adds a wow  factor in her persona, she can handle the questions well and is a Solution seeker which creates  a healthy environment in her  workplace.<br/>
-Recently, She got featured on [Android Developers](https://twitter.com/AndroidDev/status/1345565549783343110) official Twitter handle
 
 She was invited by [Truepush](https://www.truepush.com/) for a **PODCAST** telling  "[The story behind the inception of India's Contact Tracing app](https://www.truepush.com/blog/podcast-ep-9-the-story-behind-the-inception-of-indias-aarogya-setu-app/?fbclid=IwAR3AQK1TDyyUEZHHghHFHwR6hp7M0tFUdagfPi0dBtZMpWFeV3178c5zP6I)".<br/>
 
