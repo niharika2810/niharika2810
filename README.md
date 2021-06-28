@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=niharika2810)
 
 Note: I am available [here](https://thedroidlady.com/) for more updates.
+You can find my recent contributions [here](https://bit.ly/3vPuOHI).
 
 [Niharika Arora](https://www.linkedin.com/in/thedroidlady/) is Google Developer Expert for Android and currently working as a Senior Software Engineer at [1mg](https://www.1mg.com/).<br/>
 She started her career as an Android Developer with company like [myPAT](https://mypat.in/) Delhi and [Cube26](https://www.linkedin.com/company/cube26/).<br/>
@@ -47,7 +48,9 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Contributor at [AarogyaSetu app](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN) which was developed in less than 15 days.(Optimizations and feature enhacements are still on)<br/>
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19. 
  - Got **Award of Chancellor Gold Medal for JCBOSE,YMCAUST 2011-2015 Batch** by Honourable State Governor.
-  - Featured on Corporate Insight [Simply TWO Book Series](http://corporateinsight.online/?p=202).
+ - Speaker at Google for Startups to talk about [Make your app Production Ready](https://twitter.com/GoogleDevsIN/status/1407578821977542662)
+ - Panellist at CodeAid to discuss [FOMO in Android Development](https://www.youtube.com/watch?v=ju_q6IfosEo&ab_channel=mtechviral)
+ - Featured on Corporate Insight [Simply TWO Book Series](http://corporateinsight.online/?p=202).
  - Speaker at [Droidcon APAC 2020](https://www.droidcon.com/media-detail?video=491019062)
  - Judge at [OctaHacks 3.0](https://twitter.com/dscciet/status/1329115972372893696)
  - Speaker at [DSC Android Study Jams](https://dsc.community.dev/events/details/developer-student-clubs-punjab-university-college-of-information-technology-presents-become-an-android-developer/)
@@ -115,6 +118,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
 ### Technical Writing Experience 
 
 She likes to share her findings and experiments with the community and here's a list of the articles written by her:
+ - January, 2021 - [Android Data Binding: Under the Hood Part-3](https://proandroiddev.com/android-data-binding-under-the-hood-part-3-7c5378f360eb)
  - December, 2020 - [Android Data Binding: Under the Hood Part-2](https://proandroiddev.com/android-data-binding-under-the-hood-part-2-fdcbb0f54700)
  - Novemeber, 2020 - [Android Data Binding: Under the Hood Part-1](https://proandroiddev.com/android-data-binding-under-the-hood-part-1-33b8c7adfb7c)
  - September, 2020 - [How RecyclerView works internally?](https://thedroidlady.com/2020-09-18-how-recyclerView-works-internally)
