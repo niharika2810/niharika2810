@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=niharika2810)
 
-Note: I am available [here](https://thedroidlady.com/) for more updates.
-You can find my recent contributions [here](https://bit.ly/3vPuOHI).
+Note: Follow her [here](https://thedroidlady.com/) for more updates.
+Also, to know what she is upto these days, check her recent contributions [here](https://bit.ly/3vPuOHI).
 
 [Niharika Arora](https://www.linkedin.com/in/thedroidlady/) is Google Developer Expert for Android and currently working as a Senior Software Engineer at [1mg](https://www.1mg.com/).<br/>
 She started her career as an Android Developer with company like [myPAT](https://mypat.in/) Delhi and [Cube26](https://www.linkedin.com/company/cube26/).<br/>
