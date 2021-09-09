@@ -2,11 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=niharika2810)
 
-Note: Follow her [here](https://thedroidlady.com/) for more updates.
+Note: Follow her [here](https://twitter.com/theDroidLady) for more updates.
 Also, to know what she is upto these days, check her recent contributions [here](https://bit.ly/3vPuOHI).
 
-[Niharika Arora](https://www.linkedin.com/in/thedroidlady/) is Google Developer Expert for Android and currently working as a Senior Software Engineer at [1mg](https://www.1mg.com/).<br/>
-She started her career as an Android Developer with company like [myPAT](https://mypat.in/) Delhi and [Cube26](https://www.linkedin.com/company/cube26/).<br/>
+[Niharika Arora](https://www.linkedin.com/in/thedroidlady/) is working as a Developer Relations Engineer for Android at Google since August, 2021. She was previously a [Google Developer Expert](https://developers.google.com/community/experts/directory) for Android.
+
+She started her career as an Android Developer with company like [myPAT](https://mypat.in/) Delhi & [Cube26](https://www.linkedin.com/company/cube26/) and her previous organization was [1mg](https://www.1mg.com/).
+
 She is  an active technical blogger and started her journey as a speaker from [Android Developers group,Delhi](https://www.meetup.com/GDGNewDelhi/).She had completed her graduation from [JCBOSE YMCAUST,Faridabad](https://jcboseust.ac.in/).<br/>
 She is  an interactive person ,a good listener and can convey her thoughts clearly.  A Big time  fitness freak and an avid  partygoer who love to dance adds a wow  factor in her persona, she can handle the questions well and is a Solution seeker which creates  a healthy environment in her  workplace.<br/>
 
@@ -31,7 +33,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Contributor at [AarogyaSetu app](https://github.com/nic-delhi/AarogyaSetu_Android/graphs/contributors) and served the country in this tough times.
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19.
  - Invited for Interview on AarogyaSetu with Pawan Kumar(GDE) on [MtechViral Youtube Live Streaming](https://www.youtube.com/watch?v=EaW-27DRRwQ) for Android Stream Day(8-9th August 2020).
-  - Tech Editor at [raywenderlich.com](https://www.raywenderlich.com/)
+  - Got a chance to tech edit an article on [Activity Recognition API Tutorial for Android: Getting Started](https://www.raywenderlich.com/24859773-activity-recognition-api-tutorial-for-android-getting-started?utm_content=buffered793&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
   - Tech Reviewer at Packt Publishing for the book [How to build Android apps with Kotlin](https://twitter.com/theDroidLady/status/1368228232877600768)
   - [Recro Webinar](https://www.airmeet.com/e/16f03cd0-ec3b-11ea-a6e4-9b46f4e34d84) on [Unit Testing- Why, What and How](https://speakerdeck.com/niharika28/unit-testing-what-why-and-how) on Sep,5 2020. This event had approx. 350 registrations and 176 attendees.
   - Appointed as [WomenTech Global Ambassador](https://www.linkedin.com/company/womentech-network/mycompany/)
@@ -111,6 +113,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Speaker at [Android Worldwide 2021](https://www.youtube.com/watch?v=IuAylFLvGnc&ab_channel=AndroidWorldwide)
  - Speaker at [WomendDroid 2021](https://twitter.com/pblead26/status/1355225825298186243)
  - Speaker at [SPEC__NITH hackathon](https://twitter.com/SPEC__NITH/status/1356539896647852033)
+ - Tech Editor at [raywenderlich.com](https://www.raywenderlich.com/)
  
 
  
@@ -118,6 +121,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
 ### Technical Writing Experience 
 
 She likes to share her findings and experiments with the community and here's a list of the articles written by her:
+ - August, 2021 - [Activity Recognition API Tutorial for Android: Getting Started](https://www.raywenderlich.com/24859773-activity-recognition-api-tutorial-for-android-getting-started?utm_content=buffered793&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
  - January, 2021 - [Android Data Binding: Under the Hood Part-3](https://proandroiddev.com/android-data-binding-under-the-hood-part-3-7c5378f360eb)
  - December, 2020 - [Android Data Binding: Under the Hood Part-2](https://proandroiddev.com/android-data-binding-under-the-hood-part-2-fdcbb0f54700)
  - Novemeber, 2020 - [Android Data Binding: Under the Hood Part-1](https://proandroiddev.com/android-data-binding-under-the-hood-part-1-33b8c7adfb7c)
