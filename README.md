@@ -118,7 +118,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Speaker at [WomendDroid 2021](https://twitter.com/pblead26/status/1355225825298186243)
  - Speaker at [SPEC__NITH hackathon](https://twitter.com/SPEC__NITH/status/1356539896647852033)
  - Tech Editor at [raywenderlich.com](https://www.raywenderlich.com/)
- - Mentor at [Scaler](https://www.scaler.com/academy/mentor/profile/nikarora8059_82b122f8ff7f/) & MentorCruise(https://mentorcruise.com/mentor/NiharikaArora/)
+ - Mentor at [Scaler](https://www.scaler.com/academy/mentor/profile/nikarora8059_82b122f8ff7f/) & [MentorCruise](https://mentorcruise.com/mentor/NiharikaArora/)
 
  
 
