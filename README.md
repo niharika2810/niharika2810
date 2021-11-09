@@ -18,7 +18,7 @@ Apart from coding stuff, She loves to mentor people with their queries regarding
 
 She was one of the panellist for [Google DevFest India 2020](https://twitter.com/DevfestIndia/status/1317073679885324289).
 
-Recently, She got featured on [Android Developers Blog](https://twitter.com/AndroidDev/status/1355607032943038469).
+Recently, She got featured on [Android Developers Blog](https://twitter.com/AndroidDev/status/1355607032943038469)and you can find her in [Official Google's Android Developers Team on Twitter](https://twitter.com/i/lists/220463074)
 
 She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/indiamentor.com/) for her contributions towards the [community](https://www.linkedin.com/posts/thedroidlady_hardwork-rewards-sharingknowledge-activity-6696836835148132352-9d2B).
 <br/><br/>
@@ -33,6 +33,9 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Contributor at [AarogyaSetu app](https://github.com/nic-delhi/AarogyaSetu_Android/graphs/contributors) and served the country in this tough times.
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19.
  - Invited for Interview on AarogyaSetu with Pawan Kumar(GDE) on [MtechViral Youtube Live Streaming](https://www.youtube.com/watch?v=EaW-27DRRwQ) for Android Stream Day(8-9th August 2020).
+  - Talking about [Open Source](https://twitter.com/thisisaman01/status/1446501382043824129) at MAIT
+  - Networking Session Speaker at [DevFest India 2021](https://twitter.com/theDroidLady/status/1450086306378248197)
+  - Featured in MentorCruise [Meet the Mentor Series](https://mentorcruise.com/blog/niharika-arora-meet-the-mentor-c6d00/)
   - Got a chance to tech edit an article on [Activity Recognition API Tutorial for Android: Getting Started](https://www.raywenderlich.com/24859773-activity-recognition-api-tutorial-for-android-getting-started?utm_content=buffered793&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
   - Tech Reviewer at Packt Publishing for the book [How to build Android apps with Kotlin](https://twitter.com/theDroidLady/status/1368228232877600768)
   - [Recro Webinar](https://www.airmeet.com/e/16f03cd0-ec3b-11ea-a6e4-9b46f4e34d84) on [Unit Testing- Why, What and How](https://speakerdeck.com/niharika28/unit-testing-what-why-and-how) on Sep,5 2020. This event had approx. 350 registrations and 176 attendees.
@@ -50,6 +53,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Contributor at [AarogyaSetu app](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN) which was developed in less than 15 days.(Optimizations and feature enhacements are still on)<br/>
  Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19. 
  - Got **Award of Chancellor Gold Medal for JCBOSE,YMCAUST 2011-2015 Batch** by Honourable State Governor.
+ - [40 under 40 Indian Acheivers 2020](https://twitter.com/theDroidLady/status/1431669600224100352)
  - Speaker at Google for Startups to talk about [Make your app Production Ready](https://twitter.com/GoogleDevsIN/status/1407578821977542662)
  - Panellist at CodeAid to discuss [FOMO in Android Development](https://www.youtube.com/watch?v=ju_q6IfosEo&ab_channel=mtechviral)
  - Featured on Corporate Insight [Simply TWO Book Series](http://corporateinsight.online/?p=202).
@@ -114,7 +118,7 @@ She has also been recognized by [IndiaMentor](https://www.linkedin.com/company/i
  - Speaker at [WomendDroid 2021](https://twitter.com/pblead26/status/1355225825298186243)
  - Speaker at [SPEC__NITH hackathon](https://twitter.com/SPEC__NITH/status/1356539896647852033)
  - Tech Editor at [raywenderlich.com](https://www.raywenderlich.com/)
- 
+ - Mentor at [Scaler](https://www.scaler.com/academy/mentor/profile/nikarora8059_82b122f8ff7f/) & MentorCruise(https://mentorcruise.com/mentor/NiharikaArora/)
 
  
 
